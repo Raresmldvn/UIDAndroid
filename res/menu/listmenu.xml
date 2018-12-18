@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/logout"
+        android:title="@string/logout"/>
+    <item android:id="@+id/reset"
+        android:title="@string/reset"/>
+    <item android:id="@+id/chatWithUs"
+        android:title="@string/chat"/>
+    <item android:id="@+id/clear"
+        android:title="@string/clear"/>
+    <item android:id="@+id/fruits"
+        android:title="Want some fruits?"/>
+</menu>
